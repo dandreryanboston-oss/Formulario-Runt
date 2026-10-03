@@ -1,0 +1,6 @@
+{
+  "name": "RUNT Digital - Formulario de Trámites",
+  "description": "Plataforma oficial digitalizada para el Formulario de Solicitud de Trámites del Registro Nacional Automotor (RUNT - Ministerio de Transporte de Colombia) con base de datos SQLite y flujo interactivo mobile-friendly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
